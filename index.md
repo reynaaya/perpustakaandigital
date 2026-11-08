@@ -1,5 +1,10 @@
 # Digital Library
 Selamat Datang di Perpustakaan Digital
+### Identitas Pengelola
+- Nama: [Nadiva Zahra Reya]
+- NIM: [13040124140106]
+- Program Studi: Ilmu Perpustakaan dan Informasi
+- Universitas Diponegoro
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Looking for knowledge](ebook/Looking for knowledge.pdf) – Naresh Kumar Agarwa (2020) 
@@ -12,5 +17,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Perspectives on library services: Utilization and satisfaction of undergraduate students](ebook/Perspectives on library services Utilization and satisfaction of undergraduate students.pdf) - Camia A. Lasig (2025)
 9. [University students' satisfaction with library services and resources using the Kano model](ebook/University students satisfaction with library services and resources using.pdf) - Mark Ronar G. Galagala (2024)
 10. [Leisure, emotional solidarity and behavioural intentions in academic library: the moderating roles of social identity and gender](ebook/Leisure emotional solidarity and behavioural intentions in academic library the moderating roles of social identity and gender.pdf) - Vincent Kweku Asimah (2025)
+11. [Rangkuman UGC Transforming Libraries through Information Technology](ebook/Rangkuman UGC Transforming Libraries through Information Technology.pdf) - Nadiva Zahra Reya (2026)
 ---
 *Powered by GitHub Pages*
