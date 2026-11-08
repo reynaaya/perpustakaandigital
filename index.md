@@ -1,6 +1,6 @@
 # Digital Library
 Selamat Datang di Perpustakaan Digital
-### Identitas Pengelola
+## Identitas Pengelola
 - Nama: Nadiva Zahra Reya
 - NIM: 13040124140106
 - Program Studi: Ilmu Perpustakaan dan Informasi
