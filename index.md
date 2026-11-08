@@ -1,8 +1,8 @@
 # Digital Library
 Selamat Datang di Perpustakaan Digital
 ### Identitas Pengelola
-- Nama: [Nadiva Zahra Reya]
-- NIM: [13040124140106]
+- Nama: Nadiva Zahra Reya
+- NIM: 13040124140106
 - Program Studi: Ilmu Perpustakaan dan Informasi
 - Universitas Diponegoro
 Berikut ini adalah Koleksi yang dimiliki:
